@@ -10,7 +10,7 @@ A simple web-based tool that allows users to analyze text by providing the word 
 
 ## Preview
 
-![Text Analysis Tool Screenshot](screenshot.png)  
+![Text Analysis Tool Screenshot](blob/main/screenshot.png)  
 *Example of the Text Analysis Tool interface*
 
 ## How to Use
